@@ -1,0 +1,20 @@
+{
+  "name": "@ra5243/12-oop-my-blank",
+  "version": "1.1.1",
+  "description": "This is simple OOP My-Blank project",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.0.1"
+  }
+}
